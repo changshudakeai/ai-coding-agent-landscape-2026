@@ -1,0 +1,12 @@
+company_id,company_name,company_type,representative_products,geographic_scope,target_customer,research_status,official_url,accessed_date,research_focus,notes
+C001,OpenAI,"foundation model and AI product company",Codex,global,"individuals; developers; enterprises",candidate,https://openai.com/,2026-07-30,"模型能力、ChatGPT入口、云端委派与企业分发","公司类型和战略判断待后续多源验证"
+C002,Anthropic,"foundation model and AI product company",Claude Code,global,"developers; engineering teams; enterprises",candidate,https://www.anthropic.com/,2026-07-30,"终端Agent、模型与工具使用、云平台企业部署","公司类型和战略判断待后续多源验证"
+C003,Cursor,"developer tools company",Cursor,global,"developers; engineering teams; enterprises",candidate,https://cursor.com/,2026-07-30,"AI-native editor入口、模型聚合、团队与企业采用","正式公司主体和产品组合待核验"
+C004,GitHub,"code hosting and developer platform company",GitHub Copilot,global,"developers; organizations; enterprises",candidate,https://github.com/,2026-07-30,"代码托管分发、Issue/PR工作流、安全与组织治理","需要区分GitHub与Microsoft的资源和组织边界"
+C005,Google,"technology and cloud platform company",Gemini CLI,global,"developers; cloud users; enterprises",candidate,https://about.google/,2026-07-30,"模型、开源CLI、云平台和开发者生态协同","仅纳入与Coding Agent直接相关部分"
+C006,Qoder,"developer tools and agent platform",Qoder,global_and_China,"developers; knowledge workers; enterprises",candidate,https://qoder.com/,2026-07-30,"IDE/CLI/办公Agent产品组合、区域版本与商业化","需进一步核验全球版与中国版的公司和产品关系"
+C007,Tencent Cloud,"cloud and enterprise technology company",CodeBuddy,China_and_global,"developers; enterprises",candidate,https://www.tencentcloud.com/,2026-07-30,"中国市场、云服务、企业客户与开发工具协同","仅纳入与CodeBuddy和开发者工具相关部分"
+C008,Cognition,"AI software engineering company","Devin; Windsurf",global,"engineering teams; enterprises",candidate,https://cognition.ai/,2026-07-30,"自主软件工程Agent、AI编辑器组合与企业销售","产品整合和组织变化需要按时间持续复核"
+C009,Replit,"cloud development platform company",Replit Agent,global,"developers; non-professional builders; startups",candidate,https://replit.com/,2026-07-30,"浏览器开发环境、应用生成、部署和非专业用户","重点区分原型生成与长期软件维护能力"
+C010,OpenCode,"open-source developer tools project",OpenCode,global,"developers; open-source users",candidate,https://opencode.ai/,2026-07-30,"开放源代码、模型选择、社区和自托管价值","项目主体和治理结构待核验"
+C011,Aider-AI,"open-source developer tools project",Aider,global,"developers; open-source users",candidate,https://aider.chat/,2026-07-30,"终端结对编程、代码库映射和开源社区","作为Assistant与Agent边界对照样本"
