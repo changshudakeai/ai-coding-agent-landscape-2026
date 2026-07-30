@@ -1,0 +1,21 @@
+sample_id,company,job_title,evidence_grade,V,P,T,T_domain,A_S,A_W,G_E,G_R,O,M,D,D_scope,C,capability_archetype,source_url,limitations
+JD001,OpenAI,"Product Manager, Codex Security Controls",A,2E,2E,2E,"安全/IAM/Agent安全",1E,2E,2E,2E,2E,1E,2E,Product,1E,"Agent产品与控制设计者",https://openai.com/careers/product-manager-codex-security-controls-and-partner-interfaces-remote-us/,None
+JD002,OpenAI,"Deployed Product Manager, Codex",A,2E,2E,1E,"企业技术集成",0,1E,0,0,2E,0,2E,Customer,2E,"技术型部署与采用连接者",https://openai.com/careers/deployed-product-manager-codex-san-francisco/,None
+JD003,OpenAI,"Developer Experience Engineer",A,1E,1E,2E,"全栈AI应用/Developer Experience",1I,1E,1E,0,2E,0,2E,Product,1E,"技术型边界连接者",https://openai.com/careers/developer-experience-engineer-san-francisco/,None
+JD004,OpenAI,"Manager, AI Deployment Engineering—Codex",A,2E,1E,2E,"企业AI部署/SDLC",1I,2E,1E,1E,2E,0,2E,Customer,2E,"技术型部署与采用连接者",https://openai.com/careers/manager-ai-deployment-engineering-codex-munich-germany/,None
+JD005,Anthropic,"Product Manager, Claude Code Model Performance",A,2E,2E,2E,"模型行为/Agent评测",1I,1E,2E,1E,2E,2E,2E,Product,1E,"Agent产品与控制设计者",https://job-boards.greenhouse.io/anthropic/jobs/5247640008,None
+JD006,Anthropic,"Product Manager, Developer Productivity",A,2E,2E,2E,"开发基础设施/CI-CD/AI工具",1I,2E,2E,2E,2E,1E,2E,Organization,0,"Agent产品与控制设计者",https://job-boards.greenhouse.io/anthropic/jobs/5220143008,None
+JD007,Anthropic,"Model Performance SWE, Claude Code",A,1E,1E,2E,"评测基础设施/研究系统",0,1E,2E,1E,1E,2E,2E,System,0,"评测与可靠性交付者",https://job-boards.greenhouse.io/anthropic/jobs/5098025008,None
+JD008,Anthropic,"Staff SWE, Developer Productivity—CI/CD",A,1E,0,2E,"CI-CD/发布工程",0,1E,2E,2E,1E,1E,2E,System,0,"评测与可靠性交付者",https://job-boards.greenhouse.io/anthropic/jobs/5271428008,None
+JD009,Anthropic,"People Research Scientist, Recruiting",A,1E,1I,1E,"People Science/统计",0,0,2E,1E,2E,2E,1E,Research,0,"证据—决策转换者",https://job-boards.greenhouse.io/anthropic/jobs/5257763008,"不能推断该岗位由Claude Code直接产生"
+JD010,Anthropic,"Workforce Planning Lead",A,2E,0,1E,"People Analytics/人力规划",0,0,1E,1E,2E,2E,2E,Organization,0,"组织规划与运营转化者",https://job-boards.greenhouse.io/anthropic/jobs/5202462008,"不能推断该岗位由Claude Code直接产生"
+JD011,Cursor,"Software Engineer, Agent Harness",A,1E,2E,2E,"Agent Harness/平台",2E,1I,1E,1E,1E,1E,2E,System,0,"Agent系统建设者",https://cursor.com/hi/careers/software-engineer-agent-harness,None
+JD012,Cursor,"Software Engineer, Agent Evaluation and Quality",A,1E,1E,2E,"Agent评测/测量基础设施",1E,0,2E,1E,1E,2E,2E,System,0,"评测与可靠性交付者",https://cursor.com/fr/careers/software-engineer-agent-evaluation-and-quality,None
+JD013,Cursor,"AI Adoption Engineer",A,2E,1E,1E,"开发者工具/AI辅助工作流",0,1E,1E,0,2E,1E,2E,Customer,2E,"技术型部署与采用连接者",https://cursor.com/careers/ai-adoption-engineer,None
+JD014,Cursor,"User Researcher",A,1E,1E,1E,"用户研究/技术产品",0,0,2E,0,2E,2E,1E,Research,0,"证据—决策转换者",https://cursor.com/careers/user-researcher,None
+JD015,GitHub,"Staff SWE, Mission Control",A,0,0,2E,"分布式系统/API/IAM/Agent平台",2E,1I,1E,2E,1E,0,2E,System,0,"Agent系统建设者",https://www.github.careers/careers-home/jobs/5611?lang=en-us,None
+JD016,GitHub,"Principal SWE, Enterprise AI Platform",A,1E,0,2E,"分布式系统/企业AI控制平面",2E,1I,1E,2E,1E,0,2E,System,1I,"Agent系统建设者",https://www.github.careers/early-in-career/jobs/5481?lang=en-us,None
+JD017,GitHub,"Senior Product Operations Manager",A,2E,2E,1E,"AI产品运营/自动化",0,1E,2E,1E,2E,1E,2E,Organization,1E,"组织规划与运营转化者",https://www.github.careers/careers-home/jobs/5516?lang=en-us,None
+JD018,Cognition,"Deployed Engineer—APAC",B,NA,NA,NA,Unknown,NA,NA,NA,NA,NA,NA,NA,Customer,NA,"可能为技术型部署与采用连接者",https://jobs.ashbyhq.com/cognition/b73fd66a-f43b-4240-95c2-7a76b4ffb0c6,"正文不完整；技术栈、验证责任和成功指标不足"
+JD019,Cognition,"Applied AI Transformation Manager—APAC",B,NA,NA,NA,Unknown,NA,NA,NA,NA,NA,NA,NA,Customer,NA,"可能为组织转化或部署连接者",https://jobs.ashbyhq.com/cognition/be59ef70-1b34-4af5-a831-da964a6d3869,"正文不完整；实施深度和量化方法不足"
+JD020,Cognition,"Product Engineer",B,NA,NA,NA,Unknown,NA,NA,NA,NA,NA,NA,NA,Product,NA,"可能为产品工程角色",https://jobs.ashbyhq.com/cognition/439404bb-3185-4d22-b6df-4a5e39a510d6,"正文不完整；产品模块、技术深度和结果标准不足"
